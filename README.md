@@ -1,2 +1,3 @@
 # SQL_Projects
-Repo for sql projects
+
+Repo for sql projects.
